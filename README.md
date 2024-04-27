@@ -1,4 +1,3 @@
-```
 # 🚪 Página Web de Login com React
 
 Este é um projeto de página de login com efeito de vidro desenvolvido utilizando React. Permite que os usuários ingressem em suas contas fornecendo um ne-mail de usuário e senha válidos.
